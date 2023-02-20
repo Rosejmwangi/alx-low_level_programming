@@ -1,9 +1,7 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 /**
- * main - main block
- * Description: Get a random number and print the number
+ * main - Entry point  main block
+ * Description: This program will assign a random number to the variable n each time it is executed.Get a random number and print the number
  * and if the number is positive, negative, or zero
  * Return: 0
  */
