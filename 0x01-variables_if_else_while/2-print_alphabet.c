@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - main block
- * Description: get a random it with S
- * Return: 0
+ * main - Entry point
+ * Description: A program that prints the alphabet in lowercase, followed by a new line
+ * Return: (0)
  */
 int main(void)
 {
