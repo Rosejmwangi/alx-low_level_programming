@@ -1,26 +1,26 @@
 #include <stdio.h>
 /**
  * main- Entry point
- *
+ * Descriptiption: a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
  * Return: Always 0 (success)
  */
 int main(void)
 {
-	char c;
+	char x;
 
-	char d;
+	char y;
 	
-	c = 'a';
-	d = 'A';
+	x = 'a';
+	y = 'A';
 	while
-		(c <= 'z') {
+		(x <= 'z') {
 			putchar(c);
-			c++;
+			x++;
 		}
 	while
-		(d <= 'z') {
+		(y <= 'z') {
 			putchar(c);
-			d++;
+			y++;
 		}
 	return (0);
 }
