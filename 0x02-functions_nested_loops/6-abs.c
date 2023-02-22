@@ -5,8 +5,7 @@
  * @n: integer to check
  * Return: the absolute value of an integer
  */
-int _abs(int)
-	n=i;
+int _abs(int n)
 {
 	if (n >= 0)
 	{
