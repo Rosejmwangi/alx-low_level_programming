@@ -6,6 +6,7 @@
  * Return: the absolute value of an integer
  */
 int _abs(int)
+	n=i;
 {
 	if (n >= 0)
 	{
